@@ -2,9 +2,8 @@
 # Lista de Exercícios XI - IHC & UX
 ## Projeto: Aplicativo ReCiclo
 
-**Equipe:**
-* Carla [Seu Sobrenome]
-* Arthur [Sobrenome do Arthur]
+
+* Eduarda [Cordeiro Furst Vieira]
 
 ---
 
