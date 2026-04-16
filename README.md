@@ -3,7 +3,7 @@
 ## Projeto: Aplicativo ReCiclo
 
 
-* Eduarda [Cordeiro Furst Vieira]
+* Eduarda Cordeiro Furst Vieira
 
 ---
 
